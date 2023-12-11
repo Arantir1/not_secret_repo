@@ -3,4 +3,7 @@ print('beautiful')
 print('perfect')
 
 def print_vasya():
-    def
+    pass
+
+def print_evgen():
+    pass
